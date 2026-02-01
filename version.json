@@ -6,7 +6,7 @@
   },
   "64bit": {
     "version number": "2.1.4", 
-    "libname": "libYoshixzsV4.so",
-    "what's new": "- New features added\n- touch issues fixed \n- Bug fixes \n- fixed keyboard input issues \n- fixed config issues \n- reduced menu delay time till shows"
+    "libname": "libPrexido_64.so",
+    "what's new": "- New features added\n- Added skin hacks \n- Bug fixes"
   }
 }
